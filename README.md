@@ -120,7 +120,7 @@ Related references:
 [![DOI](https://img.shields.io/badge/DOI-10.1261%2Frna.076067.120-blue)](https://doi.org/10.1261/rna.076067.120)
 [![DOI](https://img.shields.io/badge/DOI-10.1261%2Frna.068437.118-blue)](https://doi.org/10.1261/rna.068437.118)
 [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fnar%2Fgkw1175-blue)](https://doi.org/10.1093/nar/gkw1175)
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ica.2016-blue)](https://doi.org/10.1016/j.ica.2016)
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ica.2016.04.005-blue)](https://doi.org/10.1016/j.ica.2016.04.005)
 
 ---
 
