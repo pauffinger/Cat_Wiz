@@ -16,7 +16,7 @@ Cat_Wiz is a computational toolkit designed for structural biologists working wi
 
 ### ✨ Key Features
 
-- 🎯 **Precise Localization**: Accurately 	 Mg²⁺ ion positions in RNA structures
+- 🎯 **Precise Localization**: Accurately identifies Mg²⁺ ion positions in RNA structures
 - 🔍 **Diagnostic Tools**: Comprehensive analysis of metal coordination geometry
 - 📝 **Automated Annotation**: Streamlined annotation workflow for structural data
 - 🧪 **Stereochemistry-Guided**: Uses rigorous geometric and chemical validation
@@ -68,19 +68,19 @@ The authors extend their gratitude to:
 If you use Cat_Wiz in your research, please cite:
 
 ```bibtex
-@article{catwiz2025,
+@article{CatWiz_2025,
   title={Cat_Wiz: A stereochemistry-guided toolkit for locating, diagnosing and annotating Mg2+ ions in RNA structures},
   author={Naleem, Nawavi and Henning-Knechtel, Anja and Kirmizialtin, Serdal and Auffinger, Pascal},
   journal={bioRxiv},
   year={2025},
   doi={10.1101/2025.10.04.677962}
 }
-@article{catwiz2025,
-  title={Cat_Wiz: A stereochemistry-guided toolkit for locating, diagnosing and annotating Mg2+ ions in RNA structures},
-  author={Naleem, Nawavi and Henning-Knechtel, Anja and Kirmizialtin, Serdal and Auffinger, Pascal},
-  journal={bioRxiv},
+@article{Mg2+_Binding_Principles_2025,
+  title={Principles of ion binding to RNA inferred from the analysis of a 1.55 Å resolution bacterial ribosome structure - Part I: Mg2+},
+  author={Leonarski, Filip and Henning-Knechtel, Anja and Kirmizialtin, Serdal and Ennifar, Eric and Auffinger, Pascal},
+  journal={Nucleic Acid Res.},
   year={2025},
-  doi={10.1101/2025.10.04.677962}
+  doi={10.1093/nar/gkae1148}
 }
 ```
 
