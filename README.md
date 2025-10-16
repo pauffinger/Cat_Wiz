@@ -83,6 +83,8 @@ If you use Cat_Wiz in your research, please cite:
   doi={10.1093/nar/gkae1148}
 }
 ```
+[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2025.10.04.677962-blue)](https://doi.org/10.1101/2025.10.04.677962)
+[![DOI](https://img.shields.io/badge/DOI-10.1093%2Fnar%2Fgkae1148-blue)](https://doi.org/10.1093/nar/gkae1148)
 
 ---
 
