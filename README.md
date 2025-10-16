@@ -1,6 +1,6 @@
 # 🧬 Cat_Wiz 
 
-## A stereochemistry-guided toolkit for locating, diagnosing and annotating Mg²⁺ ions in RNA structures
+## Cat_Wiz: A stereochemistry-guided toolkit for locating, diagnosing and annotating Mg²⁺ ions in RNA structures
 
 *Precision tools for RNA-metal ion structural biology*
 
@@ -12,11 +12,11 @@
 
 ## 📋 Overview
 
-Cat_Wiz is a sophisticated computational toolkit designed for structural biologists working with RNA-metal ion interactions. The software provides advanced stereochemistry-guided methods for identifying, analyzing, and annotating magnesium ions (Mg²⁺) in RNA crystal and cryo-EM structures.
+Cat_Wiz is a computational toolkit designed for structural biologists working with RNA-metal ion interactions. The software provides advanced stereochemistry-guided methods for identifying, analyzing, and annotating magnesium ions (Mg²⁺) in RNA crystal and cryo-EM structures.
 
 ### ✨ Key Features
 
-- 🎯 **Precise Localization**: Accurately identify Mg²⁺ ion positions in RNA structures
+- 🎯 **Precise Localization**: Accurately 	 Mg²⁺ ion positions in RNA structures
 - 🔍 **Diagnostic Tools**: Comprehensive analysis of metal coordination geometry
 - 📝 **Automated Annotation**: Streamlined annotation workflow for structural data
 - 🧪 **Stereochemistry-Guided**: Uses rigorous geometric and chemical validation
@@ -75,6 +75,13 @@ If you use Cat_Wiz in your research, please cite:
   year={2025},
   doi={10.1101/2025.10.04.677962}
 }
+@article{catwiz2025,
+  title={Cat_Wiz: A stereochemistry-guided toolkit for locating, diagnosing and annotating Mg2+ ions in RNA structures},
+  author={Naleem, Nawavi and Henning-Knechtel, Anja and Kirmizialtin, Serdal and Auffinger, Pascal},
+  journal={bioRxiv},
+  year={2025},
+  doi={10.1101/2025.10.04.677962}
+}
 ```
 
 ---
@@ -87,7 +94,7 @@ License information will be provided upon publication acceptance.
 
 ## 📞 Contact
 
-For access requests, questions, or collaboration inquiries, please contact the **Pascal Auffinger** through the information provided in the manuscript.
+For access requests, questions, or collaboration inquiries, please contact **Pascal Auffinger** through the information provided in the manuscript.
 
 ---
 
