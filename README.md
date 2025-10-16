@@ -75,6 +75,11 @@ If you use Cat_Wiz in your research, please cite:
   year={2025},
   doi={10.1101/2025.10.04.677962}
 }
+[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2025.10.04.677962-blue)](https://doi.org/10.1101/2025.10.04.677962)
+```
+Related references:
+
+```
 @article{Mg2+_Binding_Principles_2025,
   title={Principles of ion binding to RNA inferred from the analysis of a 1.55 Å resolution bacterial ribosome structure - Part I: Mg2+},
   author={Leonarski, Filip and Henning-Knechtel, Anja and Kirmizialtin, Serdal and Ennifar, Eric and Auffinger, Pascal},
@@ -82,9 +87,40 @@ If you use Cat_Wiz in your research, please cite:
   year={2025},
   doi={10.1093/nar/gkae1148}
 }
+@article{Defalting_Mg2+_Bubble_2021,
+  title={Deflating the RNA Mg2+ bubble: stereochemistry to the rescue!},
+  author={Auffinger, Pascal and Ennifar, Eric and and D'Ascenzo, Luigi},
+  journal={RNA},
+  year={2021},
+  doi={10.1261/rna.076067.120}
+}
+@article{Nucleobase_Mg2+_Binbing_2019,
+  title={Nucleobase carbonyl groups are poor Mg2+ inner-sphere binders but excellent monovalent ion binders-a critical PDB survey},
+  author={Leonarski, Filip and D'Ascenzo, Luigi and Auffinger Pascal},
+  journal={RNA},
+  year={2019},
+  doi={10.1261/rna.068437.118}
+}
+@article{Nitrogen_Mg2+_Binbing_2017,
+  title={Mg2+ ions: do they bind to nucleobase nitrogens?},
+  author={Leonarski, Filip and D'Ascenzo, Luigi and Auffinger Pascal},
+  journal={Nucleic Acid Res.},
+  year={2017},
+  doi={10.1093/nar/gkw1175}
+}
+@article{Nitrogen_Metal_Binbing_2016,
+  title={Binding of metals to purine N7 nitrogen atoms and implications for nucleic acids: A CSD survey},
+  author={Leonarski, Filip and D'Ascenzo, Luigi and Auffinger Pascal},
+  journal={Inorg. Chim. Acta.},
+  year={2016},
+  doi={10.1016/j.ica.2016}
+}
 ```
-[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2025.10.04.677962-blue)](https://doi.org/10.1101/2025.10.04.677962)
 [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fnar%2Fgkae1148-blue)](https://doi.org/10.1093/nar/gkae1148)
+[![DOI](https://img.shields.io/badge/DOI-10.1261%2Frna.076067.120-blue)](https://doi.org/10.1261/rna.076067.120)
+[![DOI](https://img.shields.io/badge/DOI-10.1261%2Frna.068437.118-blue)](https://doi.org/10.1261/rna.068437.118)
+[![DOI](https://img.shields.io/badge/DOI-10.1093%2Fnar%2Fgkw1175-blue)](https://doi.org/10.1093/nar/gkw1175)
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ica.2016-blue)](https://doi.org/10.1016/j.ica.2016)
 
 ---
 
